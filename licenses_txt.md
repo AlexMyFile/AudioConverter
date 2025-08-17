@@ -1,4 +1,4 @@
-# LICENSES.txt
+e# LICENSES.txt
 
 ## 1. Python
 
@@ -31,8 +31,6 @@ URL: [https://github.com/TomSchimansky/CustomTkinter](https://github.com/TomSchi
 
 ## 3. FFmpeg
 
-FFmpeg: LGPL License (assicurarsi di usare la versione LGPL per distribuzione binaria chiusa)
-
 - URL: [https://ffmpeg.org/legal.html](https://ffmpeg.org/legal.html)
 - Nota: FFmpeg è integrato nell’eseguibile. Gli utenti hanno diritto di sostituire la libreria con una versione compatibile LGPL.
 
@@ -60,8 +58,14 @@ Mutagen: GNU Lesser General Public License v2.1 (LGPL)
 
 ## 6. Crediti generali
 
-- Software principale: [Nome Software] – © [Anno] [Tuo Nome]
+- Software principale: [Audio Converter] – © [2025] [Alex Lignola]
 - Distribuito come freeware binario.
 - Vietata la modifica o la redistribuzione commerciale senza autorizzazione scritta.
-- Tutti i nomi di librerie di terze parti devono essere citati come sopra.
+## ⚙️ Tecnologie utilizzate
+
+* Python
+* Tkinter + CustomTkinter
+* FFmpeg (integrato nell’eseguibile)
+* Pillow (PIL)
+* Mutagen
 
