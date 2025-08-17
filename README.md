@@ -73,4 +73,13 @@ YouTube: [@AngoloInformatico](https://www.youtube.com/@AngoloInformatico)
 
 ## ⚖️ Licenza
 
-© 2025 Audio Converter - All rights reserved.
+- Il codice di questo progetto è rilasciato con licenza **BSD-3-Clause license**.
+- Una copia della licenza è disponibile nel file [LICENSE](LICENSE).
+
+## Terze parti
+Questo pacchetto include:
+- **FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe)**  
+  Rilasciato con licenza **GPL v2 o successiva**.  
+  Vedi il file NOTICE-FFmpeg.txt per dettagli.  
+ 
+
