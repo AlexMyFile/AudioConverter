@@ -2,6 +2,8 @@
 
 Un'applicazione desktop sviluppata in **Python** con **CustomTkinter**, convertita in **file eseguibile (.exe)** con inclusi **ffmpeg.exe, ffplay.exe e ffprobe.exe**.
 
+⚠️ **Nota**: questo repository non contiene i sorgenti. I file `.exe` sono stati compilati a partire dal progetto originale.
+
 👉 Funziona **standalone su Windows 10/11** senza necessità di installare Python o altre librerie.
 
 <img width="847" height="671" alt="Immagine 2025-08-16 175741" src="https://github.com/user-attachments/assets/9643fce3-eed3-46a5-8783-92860c04c4d2" />
